@@ -1,2 +1,3 @@
 # dhis2_rapi
-an API to work pull data from the dhis2
+an API to pull data from the dhis2 developer instance.
+
